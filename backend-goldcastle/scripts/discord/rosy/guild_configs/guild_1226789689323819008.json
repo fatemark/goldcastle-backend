@@ -1,0 +1,46 @@
+{
+    "TOKEN_ROLES": {
+        "0beffdfa642818060ca796ff770bb42d437c93f4f5c381ef89b226ec6ae5f500": [
+            [
+                1000000,
+                1228147433414987776
+            ],
+            [
+                700000,
+                1227474909240885268
+            ]
+        ],
+        "5dfc09e384aed88f9534bb30865d8028ebb3cee60593afbbbaf679c03f40d000": [
+            [
+                8000,
+                1228147433414987776
+            ]
+        ]
+    },
+    "NFT_TRAIT_ROLES": {
+        "22W9Xqz3BZE9fsCEtgqsk6CTRHktF2tFYb5wc1RWWCa8X": [
+            [
+                "body",
+                "White",
+                1228147433414987776
+            ],
+            [
+                "body",
+                "sand",
+                1227449411257499729
+            ]
+        ]
+    },
+    "NFT_COUNT_ROLES": {
+        "22W9Xqz3BZE9fsCEtgqsk6CTRHktF2tFYb5wc1RWWCa8X": [
+            [
+                1,
+                1228147478923182142
+            ],
+            [
+                4,
+                1228147433414987776
+            ]
+        ]
+    }
+}

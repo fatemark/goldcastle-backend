@@ -1,0 +1,8 @@
+Flask==3.0.2
+flask_cors==4.0.0
+psycopg2-binary==2.9.9
+discord
+asyncio
+openai==0.27.8
+requests
+numpy

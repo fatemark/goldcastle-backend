@@ -1,0 +1,3 @@
+/Users/esse/Desktop/crypto/gold_castle/nft/database_localhost/backend-goldcastle/scripts/war/atwar/CMakeFiles/AtWar.dir
+/Users/esse/Desktop/crypto/gold_castle/nft/database_localhost/backend-goldcastle/scripts/war/atwar/CMakeFiles/edit_cache.dir
+/Users/esse/Desktop/crypto/gold_castle/nft/database_localhost/backend-goldcastle/scripts/war/atwar/CMakeFiles/rebuild_cache.dir

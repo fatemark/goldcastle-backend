@@ -1,0 +1,28 @@
+{
+    "configuration": [
+        {
+            "guild_id": 1226789097323819008,
+            "name": "NGU",
+            "usage": 0,
+            "tips": 0,
+            "personality": "",
+            "roleschannel": 1227195371239215656,
+            "verificationchannel": 1226789689974067203,
+            "delete_expired": false,
+            "exclude_from_deletion": [],
+            "botname": "Rosy"
+        },
+        {
+            "guild_id": 1226789689323819008,
+            "name": "Galactics",
+            "usage": 0,
+            "tips": 0,
+            "personality": "Happy",
+            "roleschannel": 1227195377439215656,
+            "verificationchannel": "",
+            "delete_expired": false,
+            "exclude_from_deletion": [],
+            "botname": ""
+        }
+    ]
+}

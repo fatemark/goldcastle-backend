@@ -1,0 +1,29 @@
+{
+  "collections": [
+    {
+      "image": "https://ipfs.filebase.io/ipfs/Qmf3n8EqutD5iVDWaSHYLBZ8Cj11Mav7hV3AUHeuxhTbDN/banner.png",
+      "name": "What The Duck",
+      "description": "What the Duck is a flock of 128 generative ducks, migrating to the Alephium blockchain",
+      "author": "0xreed",
+      "address": "22W9Xqz3BZE9fsCEtgqsk6CTRHktF2tFYb5wc1RWWCa8X",
+      "supply": "128",
+      "baseuri": "https://ipfs.filebase.io/ipfs/QmRheTGpPP4ZNyRAeLUJrNY1ZWecC3HotuchW5SuaKAXwE/"
+    },
+    {
+      "image": "https://xasdsxuik7lxfsh5ugx3at6of2bxjihsbk45linvxgjalpqquxoq.arweave.net/uCQ5XohX13LI_aGvsE_OLoN0oPIKudWhtbmSBb4Qpd0",
+      "name": "Old Asia",
+      "description": "The Old Asia Gold Castle NFT Collection is the first installment of Gold Castle Club. Minted NFT's have different rarities. NFT's can swear fealty to each other, declare war and more. ",
+      "address": "21ixd5J8qVjcAHkGsSsDTnjcgk85dZLSFvdtiCzYkuqBD",
+      "supply": "563",
+      "baseuri": "https://arweave.net/dbdvbcYroy6tjCodD4f4HHgPXmYJGLQdPqPHKNto3v0/"
+    },
+    {
+      "image": "https://arweave.net/vXcqDE9-SDL8LqXr0xPW-GOnlvMcW4ZurMb-BU-9udQ",
+      "name": "Alpha Bulls",
+      "description": "'Alpha Bulls' proudly stands as the first official 'Number Go Up' ($NGU) NFT collection on the Alephium blockchain. Led by the eminent 'Emerald Tycoon,' this exclusive series containing 77 unique items encapsulates the spirit of the burgeoning bull market. Alpha Bulls are more than art; they're a rallying cry for the inevitable uptrend and a token of triumph for pioneers in the cryptocurrency space. Secure your piece of this trailblazing collection and join the ranks of those who champion the NGU philosophy—where every Alpha Bull is a symbol of growth, strength, and a bright future.",
+      "address": "21hf8KHAoppMyQ8crJUPhkhYiypTMnFnHvmQzVzi52HeP",
+      "supply": "77",
+      "baseuri": "https://arweave.net/DuC9Hw36pfqrwo37NvQ66h0UicL0xkuoKTtidB_ZQ6Q/"
+    }
+  ]
+}
